@@ -3,7 +3,7 @@
        ;?>
 
 
-<h1> ADDITION </h1>
+<h1> ADDI  TION </h1>
 <h1>
     <?php 
     echo $num1 . "+". $num2;
